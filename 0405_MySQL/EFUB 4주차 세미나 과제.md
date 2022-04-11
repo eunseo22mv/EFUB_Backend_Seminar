@@ -8,7 +8,7 @@
 
 [diagrams.net 실습 링크](https://app.diagrams.net/#G1Dc6V8exQ2r4PyoHWqo_coXHqXALMt5f5)
 
-[사진]
+[diagrams.net 실습 사진](https://user-images.githubusercontent.com/70934572/162755638-1ec4af6c-24a6-490e-9396-2de1020afd76.PNG)
 
 
 
