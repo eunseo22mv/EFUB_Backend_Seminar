@@ -1,0 +1,8 @@
+CREATE DATABASE DB_0412;
+
+USE DB_0412;
+
+CREATE TABLE USER(
+	id bigint NOT NULL auto_increment PRIMARY KEY,
+    name VARCHAR(255) NOT NULL
+);
